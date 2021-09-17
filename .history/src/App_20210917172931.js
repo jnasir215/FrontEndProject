@@ -55,7 +55,7 @@ function App() {
           <Search />
         </Route>
       </Switch>
-    
+    </Layout>
   );
 }
 
